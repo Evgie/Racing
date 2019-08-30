@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace Racing
 {
-    class Program
+    class Node
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello");
-            Console.ReadKey();
-        }
     }
 }
