@@ -39,7 +39,7 @@ namespace Racing
                     this.Nodes.Add(new Node(10, i));
                 }
         }
-
+        
         public override void Move(MoveDirection moveDirection)
         {
             foreach (var node in this.Nodes)
