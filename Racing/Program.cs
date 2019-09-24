@@ -10,7 +10,7 @@ namespace Racing
     {
         static void Main(string[] args)
         {
-            new GameLogic().StartGame();
+            Console.WriteLine("Hello");
             Console.ReadKey();
         }
     }
